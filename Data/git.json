@@ -38,5 +38,10 @@
         "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Territories.csv",
         "p_sink_folder" : "AdventureWorks_Territories",
         "p_sink_file" : "AdventureWorks_Territories.csv"
+    },
+    {
+        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "p_sink_folder" : "AdventureWorks_Returns",
+        "p_sink_file" : "AdventureWorks_Returns.csv"
     }
 ]
