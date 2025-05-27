@@ -40,7 +40,7 @@
         "p_sink_file" : "AdventureWorks_Territories.csv"
     },
     {
-        "p_rel_url" : "aBhaskarMishra2211/SynapseToFabricMigration/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "p_rel_url" : "BhaskarMishra2211/SynapseToFabricMigration/refs/heads/main/Data/AdventureWorks_Returns.csv",
         "p_sink_folder" : "AdventureWorks_Returns",
         "p_sink_file" : "AdventureWorks_Returns.csv"
     }
